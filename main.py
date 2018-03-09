@@ -3,9 +3,9 @@ import time
 import os
 from colorprint import *
 
-MAX_RUNS = int(os.environ.get('runs', '50'))
+MAX_RUNS = int(os.environ.get('runs', '100000'))
 message = os.environ.get('message', 'Hello')
-time_interval = 1
+time_interval = 5
 count = 0
 
 while True:
