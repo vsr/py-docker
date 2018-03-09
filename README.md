@@ -1,4 +1,4 @@
-# A sample project for running a python process
+# A sample proof of concept project for running a python process on a docker container
 
 ## Creating docker image
 
